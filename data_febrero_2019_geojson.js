@@ -2205,6 +2205,27 @@ var featuresStores = {
     "Calificación_Total":68,
     "Seguridad_Industrial":100
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.2470668,19.4525161 ]
+    },
+    "properties": {
+    "fillcolor":"blues",
+    "Cadena":"Scorpion",
+    "Identificador":"SN3",
+    "Tienda":"Scorpion Naucalpan 3",
+    "Trato_amable":100,
+    "Rapidez":97,
+    "Atención_en_cajas":91,
+    "Ofertas_y_precios":88,
+    "Surtido_y_existencias":100,
+    "Orden_y_Limpieza":93,
+    "Calificación_Total":96,
+    "Seguridad_Industrial":100
+    }
   }
 ]
 }
