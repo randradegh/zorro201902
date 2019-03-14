@@ -2213,7 +2213,7 @@ var featuresStores = {
        "coordinates":  [ -99.2470668,19.4525161 ]
     },
     "properties": {
-    "fillcolor":"blues",
+    "fillcolor":"blue",
     "Cadena":"Scorpion",
     "Identificador":"SN3",
     "Tienda":"Scorpion Naucalpan 3",
