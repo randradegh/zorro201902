@@ -26,7 +26,7 @@ var featuresStores = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -99.18855,19.545868 ]
+       "coordinates":  [ -99.188686,19.5439350 ]
     },
     "properties": {
     "fillcolor":"blue",
@@ -68,7 +68,7 @@ var featuresStores = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -99.127109,19.459851 ]
+       "coordinates":  [ -99.1278683,19.460514 ]
     },
     "properties": {
     "fillcolor":"blue",
@@ -992,7 +992,7 @@ var featuresStores = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -101.3426377,20.6779949 ]
+       "coordinates":  [ -101.3424,20.6781348 ]
     },
     "properties": {
     "fillcolor":"red",
@@ -1559,7 +1559,7 @@ var featuresStores = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -98.8815347,19.2811929 ]
+       "coordinates":  [ -98.897304,19.2523865 ]
     },
     "properties": {
     "fillcolor":"red",
